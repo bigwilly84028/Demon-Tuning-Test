@@ -1,0 +1,9 @@
+C:\Users\Will Watson\Documents\GitHub\demon_serial_test\demon_serial_test\bin\Debug\demon_serial_test.exe.config
+C:\Users\Will Watson\Documents\GitHub\demon_serial_test\demon_serial_test\bin\Debug\demon_serial_test.exe
+C:\Users\Will Watson\Documents\GitHub\demon_serial_test\demon_serial_test\bin\Debug\demon_serial_test.pdb
+C:\Users\Will Watson\Documents\GitHub\demon_serial_test\demon_serial_test\obj\Debug\demon_serial_test.csprojResolveAssemblyReference.cache
+C:\Users\Will Watson\Documents\GitHub\demon_serial_test\demon_serial_test\obj\Debug\demon_serial_test.Form1.resources
+C:\Users\Will Watson\Documents\GitHub\demon_serial_test\demon_serial_test\obj\Debug\demon_serial_test.Properties.Resources.resources
+C:\Users\Will Watson\Documents\GitHub\demon_serial_test\demon_serial_test\obj\Debug\demon_serial_test.csproj.GenerateResource.Cache
+C:\Users\Will Watson\Documents\GitHub\demon_serial_test\demon_serial_test\obj\Debug\demon_serial_test.exe
+C:\Users\Will Watson\Documents\GitHub\demon_serial_test\demon_serial_test\obj\Debug\demon_serial_test.pdb
